@@ -1,6 +1,6 @@
 # Noise Globe
 
-demo - https://curl-noise-particels.vercel.app/
+[demo](https://noise-globe.netlify.app/)
 
 ```
 npm install
