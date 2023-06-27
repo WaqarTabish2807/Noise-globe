@@ -1,4 +1,4 @@
-# curl-noise-particels
+# Noise-Globe
 
 demo - https://curl-noise-particels.vercel.app/
 
